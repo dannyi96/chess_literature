@@ -27,6 +27,17 @@ King becomes an active piece in the endgame
 
 ## 2. Time
 
+Advantage in time/tempo = Situation where you can bring your pieces to a particular part of the board faster than your opponent.
+In many ways, concepts of time and force are similar.
+
+Development is one key to a time advantage
+- Don't move a piece twice in the opening
+
+Going for a Gambit
+- Voluntary sacrifice in the opening with the idea of a lead in development
+
+Time advantage is temporary. When having it, try to make use of the superior force at your disposal.
+
 ## 3. Space
 
 ## 4. Pawn structure
