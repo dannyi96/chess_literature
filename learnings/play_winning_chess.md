@@ -40,4 +40,17 @@ Time advantage is temporary. When having it, try to make use of the superior for
 
 ## 3. Space
 
+Squeezing an opponent to death -> one must first acquire a significant advantage in space.
+Advantage in space = control more enemy territory than your opponent.
+
+Space counting -> based on number of squares each piece controls in your enemy's territory.
+
+Making use of space advantage
+- Rooks - Rooks need open files to be effective.
+- Bishops - Bishops neen open diagonals to reach their full potential. Fianchettoed bishop - bishop placed on the g7/b7 sqaure(for white).
+- Knights - Knights are powerful as advanced scouts (ie- they need to be moved to an advanced square to reach its potential).
+
+Defending against a space advantage
+- Player with less space should try to trade some pieces ( & if you do have a space advantage, avoid trading pieces as much as possible).
+
 ## 4. Pawn structure
